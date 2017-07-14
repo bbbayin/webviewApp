@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">周边头条</string>
+    <string name="mob_app_key">1f6157695d400</string>
+    <string name="mob_app_secret">d4de8b80b4a19ff7f010f533284c4e1e</string>
+    <string name="sina_app_key">1f6157695d400</string>
+    <string name="sina_app_secret">d4de8b80b4a19ff7f010f533284c4e1e</string>
+    <string name="web_domain">http://www.zbtoutiao.com</string>
+    <string name="tencent_app_id">1106212877</string>
+    <string name="tencent_app_key">8ZVQlrE2mxeiUwdH</string>
+    <string name="tencent_scheme">tencent1105774497</string>
+    <string name="wechat_app_id" />
+    <string name="wechat_app_secret" />
+</resources>
